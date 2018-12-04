@@ -4,11 +4,11 @@ ehthumbs.db
 Desktop.ini
 
 # Python:
-*.idea
 *.py[cod]
 *.so
 *.egg
 *.egg-info
+idea
 dist
 build
 
