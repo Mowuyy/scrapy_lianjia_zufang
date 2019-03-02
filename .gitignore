@@ -8,7 +8,7 @@ Desktop.ini
 *.so
 *.egg
 *.egg-info
-idea
+.idea
 dist
 build
 
